@@ -1,0 +1,6 @@
+---
+title: "うな重にさん付けしちゃうきらりん"
+description: "うな重にさん付けしちゃうきらりん"
+clip_url: "https://youtube.com/clip/UgkxXu3Qy4YC_3sEm4fHaMtBiHxf0Yqm_Saj"
+arc: "牡蠣処バケツ編"
+---

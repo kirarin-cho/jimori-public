@@ -1,0 +1,13 @@
+---
+title: "きらりん幼稚園児ランキング"
+items:
+  - rank: 1
+    title: "牡蠣殻アート"
+    url: "https://youtube.com/clip/UgkxF-PNzUxP37fbHrFqwFMQNIDk34LArrI8?si=nbDe9WeydUHvrnec"
+  - rank: 2
+    title: "五分割のきらちゃんゲーム"
+    url: "https://youtube.com/clip/Ugkxv-R5pxHh_5bxB4HqXT6RbGzzYCN_l09w?si=HRdnV_EpbVNS0SUa"
+  - rank: 3
+    title: "ドローンショーのイラスト"
+    url: "https://youtube.com/clip/UgkxtN2QL1BIRWYyGEzcESCn-_TfXlJiAcyq?si=2pUmF69SqUFzSx24"
+---

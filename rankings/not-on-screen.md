@@ -1,0 +1,13 @@
+---
+title: "きらりんが映ってないランキング"
+items:
+  - rank: 1
+    title: "釣り堀"
+    url: "https://youtube.com/clip/UgkxmAXGqjeneo5H87bU9RQPua9D1lIi4k_V?si=tyoqSMk7vSg53sdc"
+  - rank: 2
+    title: "広島サンプラザホールのH170"
+    url: "https://youtube.com/clip/UgkxB7MzDIb6JbMWt90fxFDwKUPafuEaVrlU?si=jz5UcKV508TPgNdD"
+  - rank: 3
+    title: "ピースウイング広島のロッカールーム"
+    url: "https://youtube.com/clip/UgkxM7Fw1Jz26BkRlfm8eI45da53e8UE4wqk?si=fWsldJ-O9KXCzEEA"
+---

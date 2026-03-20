@@ -1,0 +1,13 @@
+---
+title: "単位時間あたりの「すごい」回数ランキング"
+items:
+  - rank: 1
+    title: "第27話"
+    url: "https://youtu.be/LbHsm1NfuGE?si=o-QL_i5d-8mwWIJV"
+  - rank: 2
+    title: "第14話"
+    url: "https://youtu.be/hmxHdTiJroQ?si=N94k3k0uEeSzX54u"
+  - rank: 3
+    title: "第80話"
+    url: "https://youtu.be/si5fT9ckTXE?si=0fgiViazbCG5ppFt"
+---

@@ -1,0 +1,13 @@
+---
+title: "気持ちの良い食べっぷりランキング"
+items:
+  - rank: 1
+    title: "牡蠣重"
+    url: "https://youtube.com/clip/UgkxbU3zRQm-i5Q2ea8z9t7w3y-vIJF2A8gC?si=Jb7bec-uTLk0Ouje"
+  - rank: 2
+    title: "かぼちゃもみじ"
+    url: "https://youtube.com/clip/Ugkxl9wLK1od-YpJg5OJ6pkX28IYDge0GyfZ?si=I0FCN0NNKQk69iJ1"
+  - rank: 3
+    title: "宮島コームハニーパンケーキ"
+    url: "https://youtube.com/clip/UgkxVkpOQSj8Cy4q4nvUY779wUzfqdDL9HAU?si=xX5z0ExBcDZPFOVE"
+---

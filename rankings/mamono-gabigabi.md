@@ -1,0 +1,13 @@
+---
+title: "魔物ガビガビランキング"
+items:
+  - rank: 1
+    title: "第80話"
+    url: "https://youtu.be/si5fT9ckTXE?si=vDq4Gw5bSHIRBwBk"
+  - rank: 2
+    title: "第76話"
+    url: "https://youtu.be/1jPktFS0Sac?si=RigT-g7Pb-MnVNhE"
+  - rank: 3
+    title: "第62話"
+    url: "https://youtu.be/EU0EXmKIT94?si=b6d-DVftTOwxAlCx"
+---
