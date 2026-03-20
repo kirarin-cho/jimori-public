@@ -1,0 +1,13 @@
+---
+title: "再生回数ランキング"
+items:
+  - rank: 1
+    title: "第1話"
+    url: "https://youtu.be/_jfH-3uU5tM?si=EaUmCsJzO7TXp17M"
+  - rank: 2
+    title: "番外編 塩プレッツェル回"
+    url: "https://youtu.be/icFYexND_2E?si=jawEJi2mLUQmnubf"
+  - rank: 3
+    title: "第75話"
+    url: "https://youtu.be/LWQfevPIiHk?si=H8ESU3hd8ZwICWIX"
+---
