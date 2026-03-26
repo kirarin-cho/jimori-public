@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary/きらちゃん.md",
+                "file": "arcs/タワレコトレンド調査編.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "きらちゃん"
+              "title": "タワレコトレンド調査編"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glossary/きらちゃん.md",
+                "file": "arcs/タワレコトレンド調査編.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for きらちゃん"
+              "title": "Backlinks for タワレコトレンド調査編"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glossary/きらちゃん.md",
+                "file": "arcs/タワレコトレンド調査編.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from きらちゃん"
+              "title": "Outgoing links from タワレコトレンド調査編"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glossary/きらちゃん.md",
+                "file": "arcs/タワレコトレンド調査編.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of きらちゃん"
+              "title": "Outline of タワレコトレンド調査編"
             }
           },
           {
@@ -197,31 +197,31 @@
   },
   "active": "97f0e3a4deb25258",
   "lastOpenFiles": [
+    "arcs/スタジアム見学ツアー編.md",
+    "arcs/サンプラザ下見ツアー編.md",
+    "arcs/カフェ巡り編.md",
+    "arcs/お弁当むさし編.md",
+    "arcs/お好み焼き編.md",
+    "arcs/おりづるタワー編.md",
+    "arcs/TSS探検編.md",
+    "glossary/Surf's up girl.md",
+    "glossary/Force.md",
+    "glossary/きらちゃん.md",
     "glossary/カラスの足.md",
     "glossary/お好み焼き.md",
     "glossary/いとや 本通店.md",
     "glossary/うさぎ.md",
     "glossary/アクリルスタンド.md",
     "glossary/force.md",
-    "glossary/Force.md",
     "glossary/H170番.md",
     "glossary/N〇〇.md",
     "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
-    "arcs/カフェ巡り編.md",
     "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
     "highlights/ep09-01-遠くない未来に実現する広島凱旋ライブに思いを馳せる2024年のきらりん.md",
     "highlights/ep07-01-制服が可愛くて「可愛い」しか言えなくなってしまったきらりん.md",
     "highlights/ep09-02-制服×河川敷で出力最大のきらりんT細胞を放つきらりん.md",
     "highlights/ep06-01-犬の名前クイズで照れながら正解発表するきらりん.md",
     "highlights/ep08-01-深そうな話を浅く締めるきらりん.md",
-    "highlights/ep02-02-絶対見てないきらりん.md",
-    "arcs/制服散歩編.md",
-    "arcs/タワレコトレンド調査編.md",
-    "spots/テレビ新広島.md",
-    "highlights/ep93-02-ザ・おむすびなきらりん.md",
-    "highlights/ep93-01-犬の作画にブレがあるきらりん.md",
-    "highlights/ep92-01-スタッフさんからのクイズに突っかかるきらりん.md",
-    "highlights/ep85-05-立ち位置のすれ違いコントを披露するきらりん.md",
-    "highlights/ep84-01-ステッカーをスティッカーと言い、なおかつラミネートをノミネートと言うきらりん.md"
+    "highlights/ep02-02-絶対見てないきらりん.md"
   ]
 }
