@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arcs/おりづるタワー編.md",
+                "file": "spots/広島駅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "おりづるタワー編"
+              "title": "広島駅"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 202.5
   },
   "right": {
     "id": "247365a6c05b7cd0",
@@ -187,31 +187,31 @@
   },
   "active": "97f0e3a4deb25258",
   "lastOpenFiles": [
-    "arcs/タワレコ店島訂正編.md",
-    "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
-    "columns/じもきらにおけるきらりんの口癖「すごい」の回数について.md",
-    "highlights/bonus-02-牡蠣殻アート制作で我に返るきらりん.md",
-    "highlights/bonus-03-試食でオリジナリティのある食べ方をするき.md",
-    "highlights/bonus-01-うな重にさん付けしちゃうきらりん.md",
-    "highlights/ep06-01-犬の名前クイズでめちゃくちゃありそうな名.md",
-    "highlights/ep01-01-犬の「犬」誕生の瞬間.md",
-    "glossary/「虹」.md",
-    "glossary/Curry Cafe Ashika.md",
-    "glossary/Force.md",
-    "glossary/H170番.md",
-    "glossary/N〇〇.md",
-    "glossary/Surf's up girl.md",
-    "glossary/アクリルスタンド.md",
-    "glossary/あつまれどうぶつの森.md",
-    "glossary/ある日、恋した.md",
-    "glossary/いしいじゅん.md",
-    "glossary/いとや 本通店.md",
-    "glossary/うさぎ.md",
-    "glossary/エディオンピースウイング広島.md",
-    "glossary/おりづるタワー.md",
-    "glossary/お好み焼き.md",
-    "glossary/からあげやカリッジュ 段原店.md",
-    "glossary/カラスの足.md",
-    "glossary/きらちゃん.md"
+    "spots/広島駅 1.md",
+    "spots/広島駅.md",
+    "spots/広島駅 2.md",
+    "spots/テレビ新広島.md",
+    "spots/広島駅 22.md",
+    "spots/広島駅 21.md",
+    "spots/広島駅 20.md",
+    "spots/広島駅 4.md",
+    "spots/広島駅 19.md",
+    "spots/広島駅 18.md",
+    "spots/広島駅 17.md",
+    "spots/広島駅 16.md",
+    "spots/広島駅 15.md",
+    "spots/広島駅 14.md",
+    "spots/広島駅 13.md",
+    "spots/広島駅 12.md",
+    "spots/広島駅 11.md",
+    "spots/広島駅 10.md",
+    "spots/広島駅 9.md",
+    "spots/広島駅 8.md",
+    "spots/広島駅 7.md",
+    "spots/広島駅 6.md",
+    "spots/広島駅 5.md",
+    "spots/広島駅 3.md",
+    "quiz/初級編.md",
+    "qa/q12-きらりんの癖は？.md"
   ]
 }
