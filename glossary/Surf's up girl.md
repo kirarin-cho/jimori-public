@@ -1,6 +1,7 @@
 ---
 title: "Surf's up girl"
 importance: 5
+slug: "surfs-up-girl"
 ---
 
 きらりんのセンター楽曲でありじもきらの2代目OP曲。  
