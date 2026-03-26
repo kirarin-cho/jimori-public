@@ -1,6 +1,6 @@
 ---
 title: "ひろしまブランドショップ TAU"
-importance: 3
+frequency: 3
 slug: "hiroshima-brand-shop-tau"
 ---
 

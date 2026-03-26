@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
+                "file": "glossary/きらちゃん.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん"
+              "title": "きらちゃん"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
+                "file": "glossary/きらちゃん.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん"
+              "title": "Backlinks for きらちゃん"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
+                "file": "glossary/きらちゃん.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん"
+              "title": "Outgoing links from きらちゃん"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
+                "file": "glossary/きらちゃん.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん"
+              "title": "Outline of きらちゃん"
             }
           },
           {
@@ -197,6 +197,16 @@
   },
   "active": "97f0e3a4deb25258",
   "lastOpenFiles": [
+    "glossary/カラスの足.md",
+    "glossary/お好み焼き.md",
+    "glossary/いとや 本通店.md",
+    "glossary/うさぎ.md",
+    "glossary/アクリルスタンド.md",
+    "glossary/force.md",
+    "glossary/Force.md",
+    "glossary/H170番.md",
+    "glossary/N〇〇.md",
+    "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
     "arcs/カフェ巡り編.md",
     "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
     "highlights/ep09-01-遠くない未来に実現する広島凱旋ライブに思いを馳せる2024年のきらりん.md",
@@ -212,16 +222,6 @@
     "highlights/ep93-01-犬の作画にブレがあるきらりん.md",
     "highlights/ep92-01-スタッフさんからのクイズに突っかかるきらりん.md",
     "highlights/ep85-05-立ち位置のすれ違いコントを披露するきらりん.md",
-    "highlights/ep84-01-ステッカーをスティッカーと言い、なおかつラミネートをノミネートと言うきらりん.md",
-    "highlights/ep83-01-43人を広島の一軒のお店に集める求心力を持つきらりん.md",
-    "highlights/ep82-03-日向坂内の抹茶好きをいなくしてしまったきらりん.md",
-    "highlights/ep82-02-「ステッカー」の発音がネイティブっぽいきらりん.md",
-    "highlights/ep82-01-ポスター警察なきらりん.md",
-    "highlights/ep81-01-みっちゃんのなんでもない場面をまるで事件かのように暴露するきらりん.md",
-    "highlights/ep79-01-絶妙なタイミングでマイクテストに見舞われるきらりん.md",
-    "highlights/ep78-04-スタジアムのロッカールームに入った感想が意外なきらりん.md",
-    "highlights/ep78-03-じもきらのロケは勝手に忍び込んでると思ってたきらりん.md",
-    "highlights/ep78-02-入団会見の志が低いきらりん.md",
-    "highlights/ep78-01-急にビジョンに投影されて驚きと喜びが入り混じるきらりん.md"
+    "highlights/ep84-01-ステッカーをスティッカーと言い、なおかつラミネートをノミネートと言うきらりん.md"
   ]
 }

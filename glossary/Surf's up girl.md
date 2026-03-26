@@ -1,7 +1,9 @@
 ---
 title: "Surf's up girl"
-importance: 5
+frequency: 5
 slug: "surfs-up-girl"
+tags: ["楽曲"]
+series: ["じもきら全体"]
 ---
 
 きらりんのセンター楽曲でありじもきらの2代目OP曲。  

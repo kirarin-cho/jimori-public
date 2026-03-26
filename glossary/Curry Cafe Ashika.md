@@ -1,7 +1,9 @@
 ---
 title: "Curry Cafe Ashika"
-importance: 3
+frequency: 3
 slug: "curry-cafe-ashika"
+tags: ["スポット"]
+series: ["カフェ巡り編"]
 ---
 
 カフェ巡り編できらりんが訪れたカフェ。ロケではきらりんは「クマの夏休み～桃のプリンパフェ～」を食べた。  

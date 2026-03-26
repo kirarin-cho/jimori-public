@@ -1,6 +1,8 @@
 ---
 title: "Force"
-importance: 3
+frequency: 3
+tags: ["スポット"]
+series: ["ポスター貼り編"]
 ---
 
 ポスター貼り編にて、ロケで訪れたイタリアンレストラン。  
