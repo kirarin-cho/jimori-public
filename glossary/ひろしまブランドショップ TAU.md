@@ -1,6 +1,7 @@
 ---
 title: "ひろしまブランドショップ TAU"
-importance: 3
+frequency: 3
+slug: "hiroshima-brand-shop-tau"
 ---
 
 東京でのロケできらりんが訪れた広島のアンテナショップ。
