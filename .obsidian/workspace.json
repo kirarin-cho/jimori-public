@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spots/Force.md",
+                "file": "glossary/ひろしまブランドショップ TAU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Force"
+              "title": "ひろしまブランドショップ TAU"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spots/Force.md",
+                "file": "glossary/ひろしまブランドショップ TAU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Forceへのバックリンク"
+              "title": "ひろしまブランドショップ TAUへのバックリンク"
             }
           },
           {
@@ -197,6 +197,11 @@
   },
   "active": "803591c0356c76b5",
   "lastOpenFiles": [
+    "glossary/N〇〇.md",
+    "glossary/ひろしま満点ママ‼︎.md",
+    "glossary/ひろしまブランドショップ TAU.md",
+    "glossary/パクチー.md",
+    "spots/Force.md",
     "spots/ある日、恋した.md",
     "spots/基町環境護岸.md",
     "spots/エディオンピースウイング広島.md",
@@ -217,11 +222,6 @@
     "spots/テレビ新広島.md",
     "spots/タワーレコード広島店.md",
     "spots/ソアラサービス.md",
-    "spots/からあげやカリッジュ_段原店.md",
-    "spots/おりづるタワー.md",
-    "spots/Force.md",
-    "spots/Curry_Cafe_Ashika.md",
-    "spots/広島駅.md",
-    "spots/広島駅 1 22.md"
+    "spots/からあげやカリッジュ_段原店.md"
   ]
 }
