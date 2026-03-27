@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3500950941b02a",
+        "id": "c42a858b63bfad6f",
         "type": "tabs",
         "children": [
           {
-            "id": "97f0e3a4deb25258",
+            "id": "803591c0356c76b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spots/テレビ新広島.md",
+                "file": "glossary/比治山大学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テレビ新広島"
+              "title": "比治山大学"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 202.5
   },
   "right": {
     "id": "247365a6c05b7cd0",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spots/テレビ新広島.md",
+                "file": "glossary/比治山大学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for テレビ新広島"
+              "title": "比治山大学へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spots/テレビ新広島.md",
+                "file": "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from テレビ新広島"
+              "title": "Outgoing links from 番組オープニング「見たことない魔物」のガビガビさの定量的分析"
             }
           },
           {
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spots/テレビ新広島.md",
+                "file": "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of テレビ新広島"
+              "title": "Outline of 番組オープニング「見たことない魔物」のガビガビさの定量的分析"
             }
           },
           {
-            "id": "e5bc521a2a07e127",
+            "id": "cc9d8a4f3d171d5e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,44 +184,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97f0e3a4deb25258",
+  "active": "803591c0356c76b5",
   "lastOpenFiles": [
-    "arcs/タワレコトレンド調査編.md",
-    "arcs/スタジアム見学ツアー編.md",
-    "arcs/サンプラザ下見ツアー編.md",
-    "arcs/カフェ巡り編.md",
-    "arcs/お弁当むさし編.md",
-    "arcs/お好み焼き編.md",
-    "arcs/おりづるタワー編.md",
-    "arcs/TSS探検編.md",
-    "glossary/Surf's up girl.md",
-    "glossary/Force.md",
-    "glossary/きらちゃん.md",
-    "glossary/カラスの足.md",
-    "glossary/お好み焼き.md",
-    "glossary/いとや 本通店.md",
-    "glossary/うさぎ.md",
-    "glossary/アクリルスタンド.md",
-    "glossary/force.md",
-    "glossary/H170番.md",
+    "glossary/番外編.md",
+    "glossary/比治山大学.md",
+    "glossary/広島牡蠣処 大衆酒場バケツ 立町店.md",
+    "glossary/カプセルトイ.md",
+    "glossary/いしいじゅん.md",
+    "glossary/抹茶.md",
+    "glossary/ひろしまブランドショップ TAU.md",
+    "glossary/むさし 土橋店.md",
+    "glossary/パクチー.md",
+    "glossary/ひろしま満点ママ‼︎.md",
+    "spots/いとや_本通店.md",
+    "glossary/牡蠣占い.md",
+    "glossary/基町環境護岸.md",
+    "spots/Curry_Cafe_Ashika.md",
+    "spots/ある日、恋した.md",
+    "spots/広島駅.md",
+    "spots/テレビ新広島.md",
+    "spots/にしき堂.md",
+    "spots/タワーレコード広島店.md",
+    "glossary/ある日、恋した.md",
+    "glossary/Curry Cafe Ashika.md",
     "glossary/N〇〇.md",
-    "highlights/ep04-01-抹茶ソフトで眉がクイクイ動いちゃうきらりん.md",
-    "columns/番組オープニング「見たことない魔物」のガビガビさの定量的分析.md",
-    "highlights/ep09-01-遠くない未来に実現する広島凱旋ライブに思いを馳せる2024年のきらりん.md",
-    "highlights/ep07-01-制服が可愛くて「可愛い」しか言えなくなってしまったきらりん.md",
-    "highlights/ep09-02-制服×河川敷で出力最大のきらりんT細胞を放つきらりん.md",
-    "highlights/ep06-01-犬の名前クイズで照れながら正解発表するきらりん.md",
-    "highlights/ep08-01-深そうな話を浅く締めるきらりん.md"
+    "spots/Force.md",
+    "spots/基町環境護岸.md",
+    "spots/エディオンピースウイング広島.md",
+    "spots/比治山大学・比治山短期大学部.md"
   ]
 }
