@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary/比治山大学.md",
+                "file": "highlights/ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "比治山大学"
+              "title": "ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glossary/比治山大学.md",
+                "file": "highlights/ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "比治山大学へのバックリンク"
+              "title": "ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりんへのバックリンク"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,31 +198,31 @@
   },
   "active": "803591c0356c76b5",
   "lastOpenFiles": [
-    "glossary/番外編.md",
-    "glossary/比治山大学.md",
-    "glossary/広島牡蠣処 大衆酒場バケツ 立町店.md",
-    "glossary/カプセルトイ.md",
-    "glossary/いしいじゅん.md",
-    "glossary/抹茶.md",
-    "glossary/ひろしまブランドショップ TAU.md",
-    "glossary/むさし 土橋店.md",
-    "glossary/パクチー.md",
-    "glossary/ひろしま満点ママ‼︎.md",
-    "spots/いとや_本通店.md",
-    "glossary/牡蠣占い.md",
-    "glossary/基町環境護岸.md",
-    "spots/Curry_Cafe_Ashika.md",
-    "spots/ある日、恋した.md",
-    "spots/広島駅.md",
-    "spots/テレビ新広島.md",
-    "spots/にしき堂.md",
-    "spots/タワーレコード広島店.md",
-    "glossary/ある日、恋した.md",
-    "glossary/Curry Cafe Ashika.md",
-    "glossary/N〇〇.md",
-    "spots/Force.md",
-    "spots/基町環境護岸.md",
-    "spots/エディオンピースウイング広島.md",
-    "spots/比治山大学・比治山短期大学部.md"
+    "highlights/ep64-01-人気お弁当当てクイズでほとんど答えを教えてもらうきらりん.md",
+    "highlights/ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん.md",
+    "arcs/釣り堀編.md",
+    "arcs/大学生お悩み相談編.md",
+    "arcs/占い編.md",
+    "arcs/制服散歩編.md",
+    "arcs/質問返し編 Part2.md",
+    "arcs/質問返し編 Part1.md",
+    "arcs/銀座TAU編.md",
+    "arcs/逆聖地巡礼編.md",
+    "arcs/牡蠣打ち編.md",
+    "arcs/牡蠣処バケツ編.md",
+    "arcs/ライブ舞台裏編.md",
+    "arcs/ポスター貼り編.md",
+    "arcs/ひろしま満点ママ編.md",
+    "arcs/にしき堂工場見学編.md",
+    "arcs/タワレコ店島訂正編.md",
+    "arcs/タワレコトレンド調査編.md",
+    "arcs/スタジアム見学ツアー編.md",
+    "arcs/サンプラザ下見ツアー編.md",
+    "arcs/カフェ巡り編.md",
+    "arcs/お弁当むさし編.md",
+    "arcs/お好み焼き編.md",
+    "arcs/おりづるタワー編.md",
+    "arcs/TSS探検編.md",
+    "columns/じもきらにおけるきらりんの口癖「すごい」の回数について.md"
   ]
 }
