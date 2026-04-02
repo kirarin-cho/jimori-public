@@ -6,4 +6,5 @@ lng: 132.461281
 arc: ["カフェ巡り編"]
 official_url: "https://www.instagram.com/currycafe_ashika"
 tags: ["広島", "グルメ"]
+arc_order: 2
 ---

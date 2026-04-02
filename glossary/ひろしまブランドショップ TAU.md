@@ -3,7 +3,7 @@ title: "ひろしまブランドショップ TAU"
 frequency: 3
 slug: "hiroshima-brand-shop-tau"
 tags: ["スポット"]
-series: ["銀座TAU"]
+series: ["銀座TAU編"]
 ---
 
 東京でのロケできらりんが訪れた広島のアンテナショップ。

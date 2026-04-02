@@ -6,4 +6,5 @@ lng: 132.477539
 arc: ["ポスター貼り編"]
 official_url: "https://www.instagram.com/force.danbara"
 tags: ["広島", "グルメ"]
+arc_order: 3
 ---
