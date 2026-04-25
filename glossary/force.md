@@ -1,6 +1,7 @@
 ---
 title: "Force"
 frequency: 3
+slug: "force"
 tags: ["スポット"]
 series: ["ポスター貼り編"]
 ---

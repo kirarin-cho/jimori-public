@@ -1,6 +1,7 @@
 ---
 title: "きらりんT細胞"
 frequency: 3
+slug: "kirarinTcell"
 tags: []
 series: ["制服散歩編", "サンプラザ下見ツアー編"]
 ---
