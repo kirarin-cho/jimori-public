@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "highlights/ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん.md",
+                "file": "spots/テレビ新広島.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん"
+              "title": "テレビ新広島"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "ファイルエクスプローラ"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 305.5
   },
   "right": {
     "id": "247365a6c05b7cd0",
@@ -185,21 +185,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "803591c0356c76b5",
   "lastOpenFiles": [
-    "highlights/ep64-01-人気お弁当当てクイズでほとんど答えを教えてもらうきらりん.md",
+    "spots/おりづるタワー.md",
+    "spots/ひろしまブランドショップ_TAU.md",
+    "spots/タワーレコード広島店.md",
+    "spots/からあげやカリッジュ_段原店.md",
+    "spots/エディオンピースウイング広島.md",
+    "spots/テレビ新広島.md",
+    "spots/むさし_土橋店.md",
+    "spots/基町環境護岸.md",
+    "spots/広島サンプラザホール.md",
+    "spots/段原鉄板_お好み焼き屋_てっぺん.md",
+    "spots/広島牡蠣処_大衆酒場バケツ_立町店.md",
+    "spots/市ヶ谷フィッシュセンター.md",
+    "spots/占八易学研究会.md",
+    "spots/ある日、恋した.md",
+    "spots/いとや_本通店.md",
     "highlights/ep64-02-誤答のショックで謎の言葉を口走ってしまうきらりん.md",
+    "highlights/ep64-01-人気お弁当当てクイズでほとんど答えを教えてもらうきらりん.md",
     "arcs/釣り堀編.md",
     "arcs/大学生お悩み相談編.md",
     "arcs/占い編.md",
@@ -208,21 +223,6 @@
     "arcs/質問返し編 Part1.md",
     "arcs/銀座TAU編.md",
     "arcs/逆聖地巡礼編.md",
-    "arcs/牡蠣打ち編.md",
-    "arcs/牡蠣処バケツ編.md",
-    "arcs/ライブ舞台裏編.md",
-    "arcs/ポスター貼り編.md",
-    "arcs/ひろしま満点ママ編.md",
-    "arcs/にしき堂工場見学編.md",
-    "arcs/タワレコ店島訂正編.md",
-    "arcs/タワレコトレンド調査編.md",
-    "arcs/スタジアム見学ツアー編.md",
-    "arcs/サンプラザ下見ツアー編.md",
-    "arcs/カフェ巡り編.md",
-    "arcs/お弁当むさし編.md",
-    "arcs/お好み焼き編.md",
-    "arcs/おりづるタワー編.md",
-    "arcs/TSS探検編.md",
-    "columns/じもきらにおけるきらりんの口癖「すごい」の回数について.md"
+    "arcs/牡蠣打ち編.md"
   ]
 }
