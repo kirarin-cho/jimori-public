@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "質問返し編 Part1"
 episodes: [43, 44, 45, 46]
 sugoi_count: 7

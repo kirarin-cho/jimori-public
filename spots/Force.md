@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "Force"
 description: "広島市南区段原に位置するイタリアンレストラン。"
 lat: 34.384952

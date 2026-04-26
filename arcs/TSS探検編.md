@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "TSS探検編"
 episodes: [1, 2, 3]
 sugoi_count: 11

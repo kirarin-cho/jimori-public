@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "ひろしまブランドショップ TAU"
 frequency: 3
 slug: "hiroshima-brand-shop-tau"

@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "Curry Cafe Ashika"
 description: "広島市中区三川町に位置するくまさんプリンが人気のカフェ。"
 lat: 34.390606

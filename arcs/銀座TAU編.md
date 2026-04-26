@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "銀座TAU編"
 episodes: [47, 48, 49, 50]
 sugoi_count: 32

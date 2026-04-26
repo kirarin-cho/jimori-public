@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "N〇〇"
 frequency: 2
 slug: "n-marumaru"

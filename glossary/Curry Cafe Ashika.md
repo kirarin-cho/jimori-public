@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "Curry Cafe Ashika"
 frequency: 3
 slug: "curry-cafe-ashika"

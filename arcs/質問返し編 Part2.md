@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "質問返し編 Part2"
 episodes: [56, 57, 58, 59, 60, 61]
 sugoi_count: 18

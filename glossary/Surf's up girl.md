@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "Surf's up girl"
 frequency: 5
 slug: "surfs-up-girl"

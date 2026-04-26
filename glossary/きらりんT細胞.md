@@ -1,4 +1,5 @@
 ---
+published_at: 2026-04-19
 title: "きらりんT細胞"
 frequency: 3
 slug: "kirarinTcell"
